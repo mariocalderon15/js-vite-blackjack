@@ -23,6 +23,7 @@ Menu,
 Add a graphical user interface,
 Implement betting system,
 Add multiple players,
+Add frameworks or librerys to catch errors more smooth.
 
 Author:
 Mario Calderon
